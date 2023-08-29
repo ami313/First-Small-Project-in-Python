@@ -22,7 +22,7 @@ This project is a simple Student Data Management System implemented in Python 3.
 1. Run the `student_data_management.py` file using the following command:
 
    ```
-   python student_data_management.py
+   python3 Project.py
    ```
 
 
