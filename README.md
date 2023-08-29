@@ -21,11 +21,10 @@ This project is a simple Student Data Management System implemented in Python 3.
 
 1. Run the `student_data_management.py` file using the following command:
 
-   ````bash
+   ```
    python student_data_management.py
    ```
 
-   ````
 
 1. You will be presented with a menu where you can choose different options by entering the corresponding numbers.
 
